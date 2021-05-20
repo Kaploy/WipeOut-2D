@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boost
+  - Health
+  - Coin
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Carros
+  - Ruas detalhes
+  - Ruas base
+  - fundo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 593550533
+    locked: 0
+  - name: Ruas base
+    uniqueID: 1936219079
+    locked: 0
+  - name: Ruas detalhes
+    uniqueID: 1302159861
+    locked: 0
+  - name: Carros
+    uniqueID: 226624255
+    locked: 0
